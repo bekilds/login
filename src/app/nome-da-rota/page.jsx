@@ -1,5 +1,7 @@
-export default function page() {
+export default function Boletim () {    
   return (
-    <div>Rota</div>
+    
+      <h1>Boletim</h1>
+    
   )
 }
